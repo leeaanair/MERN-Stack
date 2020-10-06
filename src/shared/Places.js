@@ -10,7 +10,7 @@ export const DUMMY_PLACES =
       lat: 40.7484405,
       lng: -73.9878584
     },
-    creator: 0
+    creator: '0'
   },
 
   {
@@ -23,6 +23,6 @@ export const DUMMY_PLACES =
       lat: 40.7484405,
       lng: -73.9878584
     },
-    creator: 1
+    creator: '1'
   }
 ];
